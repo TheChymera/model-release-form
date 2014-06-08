@@ -35,3 +35,4 @@ geany_run_script.sh
 
 #LaTeX:
 *.aux
+*.pdf
