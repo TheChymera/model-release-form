@@ -1,5 +1,4 @@
 A compiled version of the latest revision of this document can be downloaded [here](http://chymera.eu/resources/mrf/mrf.pdf).
-
 #“MRF” Model Release Form
 
 MRF is a draft for a [model release](http://en.wikipedia.org/wiki/Model_release) form enabling you to specify either general agreement (all photographs) or a per-photograph agreement.
